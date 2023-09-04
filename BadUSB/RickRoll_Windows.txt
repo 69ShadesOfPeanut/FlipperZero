@@ -1,0 +1,12 @@
+REM Title: Rick Roll
+REM Author: 69 Shades Of Peanut
+REM Description: Rick rolls the user
+REM Target: Windows computers
+
+DELAY 100
+GUI r
+DELAY 100
+STRING https://youtu.be/dQw4w9WgXcQ?si=dPgKE9Frbdndz1zQ
+ENTER
+DELAY 5000
+STRING f
